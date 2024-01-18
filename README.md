@@ -1,3 +1,2 @@
-# MinakomiApp
-MinakomiApp
+# BaseProject
 ##
